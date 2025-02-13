@@ -7,7 +7,7 @@
 #
 Name     : pypi-pockets
 Version  : 0.9.1
-Release  : 13
+Release  : 14
 URL      : https://files.pythonhosted.org/packages/df/8e/0601097cfcce2e8c2297db5080e9719f549c2bd4b94420ddc8d3f848bbca/pockets-0.9.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/df/8e/0601097cfcce2e8c2297db5080e9719f549c2bd4b94420ddc8d3f848bbca/pockets-0.9.1.tar.gz
 Summary  : A collection of helpful Python tools!
